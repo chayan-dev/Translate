@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Translate</string>
+    <string name="string1">hello</string>
+    <string name="string2">good morning</string>
+    <string name="string3">how are you</string>
+    <string name="string4">i\'m fine</string>
+    <string name="string5">see you later</string>
+</resources>
