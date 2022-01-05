@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Translate</string>
-    <string name="string1">hello</string>
-    <string name="string2">good morning</string>
-    <string name="string3">how are you</string>
-    <string name="string4">i\'m fine</string>
-    <string name="string5">see you later</string>
+    <string name="string1">Hola</string>
+    <string name="string2">Buenos días</string>
+    <string name="string3">cómo estás</string>
+    <string name="string4">estoy bien</string>
+    <string name="string5">hasta luego</string>
 </resources>
